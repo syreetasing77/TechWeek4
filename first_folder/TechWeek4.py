@@ -10,4 +10,5 @@ print(f"I am {age} years old.")
 print(f"My height is {height} feet.")
 print(f"My favorite food is {favorite_food}.")
 print(f"My dream salary is ${dream_salary}.")
+sum = 2+2
 
