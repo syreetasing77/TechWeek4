@@ -11,4 +11,7 @@ print(f"My height is {height} feet.")
 print(f"My favorite food is {favorite_food}.")
 print(f"My dream salary is ${dream_salary}.")
 sum = 2+2
+fav_movie = input("What is your favorite movie?")
+fruits = ["apple", "mango", "cherry"]
+
 
